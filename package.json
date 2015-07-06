@@ -1,6 +1,6 @@
 {
   "name": "radians-degrees",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert radians to degrees",
   "license": "MIT",
   "repository": "arthurvr/radians-degrees",
