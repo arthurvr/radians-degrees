@@ -13,7 +13,7 @@ $ npm install --save radians-degrees
 ## Usage
 
 ```js
-var degrees = require('radians-degrees');
+const degrees = require('radians-degrees');
 
 degrees(1);
 //=> 57.29577951308232
